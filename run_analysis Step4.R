@@ -1,1 +1,1 @@
-## this was already accomplished in steps 2 and 3, refer to descriptive names in step2 of the run analysis script
+## this was already accomplished in steps 2 and 3, refer to descriptive names in step 2 of the run analysis script

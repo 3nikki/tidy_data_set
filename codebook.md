@@ -1,6 +1,6 @@
 Column | Variable Name                     | Definition
 -------|-----------------------------------|-------------------------------------------------------
-      1	subject									ID of participant in study
+      1	subject								    ID of participant in study
 	  2	activity								description of activity performed
 	  3 tBodyAcc-mean()-X				        mean of the body acceleration on the x-axis
 	  4	tBodyAcc-mean()-Y						mean of the body acceleration on the y-axis

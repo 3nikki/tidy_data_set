@@ -9,8 +9,6 @@ install.packages("reshape")
 library("reshape")
 library("reshape2")
 
-
-
 ## Change working directory to the data directory already created in the past
 setwd("./data")
 

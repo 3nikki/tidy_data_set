@@ -13,6 +13,7 @@ activities <- rbind(activity.test,activity.train)
 ## add descriptive labels to the activity data frame
 activities  <- inner_join(activities,activity.labels)
 ## remove ID from activities DF
+
  activities$V1<- NULL
  newName<-c("activity")
  names(activities)<-newName

@@ -12,5 +12,6 @@ x.train<- read.table("./train/X_train.txt")
 ## combine the two data sets
  x.test<- rbind(x.test,x.train)
  x.combined<- x.test
- 
+
+## this completes this step
  
