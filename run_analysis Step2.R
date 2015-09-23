@@ -1,4 +1,4 @@
-## load the stringi package
+## load the ""stringi"" package
 library(stringi)
 
 ## load features.txt into a data frame
